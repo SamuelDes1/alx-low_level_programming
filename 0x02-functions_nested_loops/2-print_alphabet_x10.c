@@ -24,6 +24,7 @@ alphabet++;
 _putchar('\n');
 
 }
+integer++;
 }
 
 
