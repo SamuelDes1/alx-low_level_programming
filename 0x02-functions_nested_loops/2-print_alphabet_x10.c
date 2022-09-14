@@ -22,7 +22,7 @@ alphabet++;
 }
 
 _putchar('\n');
-integer++
+integer++;
 }
 }
 
